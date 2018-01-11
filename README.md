@@ -18,8 +18,8 @@ This is a Twitch Bot written in Python to assist streamers and moderators do bas
       
    * Optional Silent Option for Timeouts
       
-   * Emote Ignore List. Add emotes which the emote protection ignores
-      
+   * Emote Ignore List. Add emotes which the emote protection ignores.
+   
    * Customizable Whitelist. Whitelist words/links to not contribute to chat protection
       
    * Customizable Blackist. Blacklist words to be timed out. Supports wildcards (* and ?)
@@ -40,3 +40,7 @@ This is a Twitch Bot written in Python to assist streamers and moderators do bas
   #### 6. Regulars
   * Easily add and remove regulars
   * Adapts to username changes
+## Installation Instructions
+* Uses irc and emoji packages
+* To install a package. Open bash and do the following:
+`$ pip install <package name> --upgrade`
