@@ -44,3 +44,7 @@ This is a Twitch Bot written in Python to assist streamers and moderators do bas
 * Uses irc and emoji packages
 * To install a package. Open bash and do the following:
 `$ pip install <package name> --upgrade`
+### Operation
+* To operate, open bash in the directory containing chatbot.py and type the following:
+
+    `$ python chatbot.py <bot username> <client id> <oauth token> <channel>`
