@@ -30,13 +30,13 @@ This is a Twitch Bot written in Python to assist streamers and moderators do bas
       number of messages before activation
         
    * Command Support. Put commands on timers. If the command changes, the timer changes as well
-  ### 5. Multi & Raid Assistance
+  #### 5. Multi & Raid Assistance
   
   * Be able to set custom multi and raid messages
   
   * Easily set multi which can be reused without changing the command.
   Just do: ![multi command] set usernames 
   
-  ### 6. Regulars
+  #### 6. Regulars
   * Easily add and remove regulars
   * Adapts to username changes
